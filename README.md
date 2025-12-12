@@ -1,29 +1,43 @@
 <!-- 헤더 인사 -->
 <h1 align="center">Hi 👋 I'm 지현</h1>
-<h3 align="center">백엔드 & 데이터 분석 공부 중인 대학생</h3>
+<h3 align="center">JAVA백엔드 & 데이터 분석 공부 중인 대학생</h3>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 전공: (예: 컴퓨터공학 / 빅데이터 관련 전공 등)
+- 🎓 전공: (예: 소프트웨어학과 전공 / 빅데이터분석 부전공)
 - 🌱 최근 공부 중: **Spring Boot, JPA, 데이터 분석(Python, pandas)**  
-- 💡 관심 분야: **웹 서비스 개발, 데이터 기반 서비스 기획/분석**
-- 📫 연락: **your-email@example.com**
+- 💡 관심 분야: **웹 서비스 개발**
+- 📫 연락: **romeo309@naver.com**
 
 ---
 
 ### 🔧 Tech Stack
 
-#### Backend
-`Java` `Spring Boot` `JPA` `Spring Security`
+#### 🧩 Backend
+<div>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+</div>
 
-#### Frontend
-`HTML` `CSS` `JavaScript` `Thymeleaf`
+#### 🎨 Frontend
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
+</div>
 
-#### Database & Data
-`Oracle` `MySQL`  
-`Python` `pandas` `numpy` `matplotlib`
+#### 🗄 Database & Data
+<div>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</div>
 
 ---
 
@@ -34,7 +48,7 @@
 - 기술: Spring Boot, JPA, Oracle, WebSocket, Thymeleaf
 - 한 줄 요약: **실시간 채팅과 알림이 있는 중고거래 커뮤니티 웹 서비스**
 
-> 👉 레포 링크: [프로젝트 바로가기](https://github.com/your-username/your-project-repo)
+> 👉 레포 링크: [프로젝트 바로가기]([https://github.com/your-username/your-project-repo](https://github.com/Team-Nuguri/dashimarket))
 
 ---
 
