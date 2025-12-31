@@ -15,15 +15,21 @@
 
 ### 🔧 Tech Stack
 
-#### Tools
+#### ⚙️ Tools
 <div>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
+</div>
+
+#### 👩‍💻 Language
+<div>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </div>
 
 #### 🧩 Backend
 <div>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
@@ -40,7 +46,6 @@
 #### 🗄 Database & Data
 <div>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 </div>
 
@@ -55,9 +60,9 @@
 
 > 👉 레포 링크: [프로젝트 바로가기](https://github.com/Team-Nuguri/dashimarket)
 
-####  안심이음 (실시간 안전 플랫폼)
-- 역할: **관리자 페이지, 채팅, 알림, 헤더 검색 기능 개발**
-- 기술: Spring Boot, JPA, Oracle, WebSocket, Thymeleaf
+#### 🚨 안심이음 (실시간 안전 플랫폼)
+- 역할: **Frontend & API 연동**
+- 기술: Firebase, android studio
 - 한 줄 요약: **실시간 채팅과 알림이 있는 중고거래 커뮤니티 웹 서비스**
 
 ---
