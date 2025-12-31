@@ -1,6 +1,6 @@
 <!-- 헤더 인사 -->
-<h1 align="center">Hi 👋 I'm 지현</h1>
-<h3 align="center">JAVA백엔드 & 데이터 분석 공부 중인 대학생</h3>
+<h1 align="center">👋안녕하세요👋</h1>
+<h3 align="center">JAVA백엔드 & 데이터 분석 공부 중인 취준생</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 
 - 🎓 전공: (예: 소프트웨어학과 전공 / 빅데이터분석 부전공)
 - 🌱 최근 공부 중: **Spring Boot, JPA, 데이터 분석(Python, pandas)**  
-- 💡 관심 분야: **웹 서비스 개발**
+- 💡 관심 분야: **JAVA 웹 서비스 개발**
 - 📫 연락: **romeo309@naver.com**
 
 ---
