@@ -47,7 +47,7 @@
 - 기술: Spring Boot, JPA, Oracle, WebSocket, Thymeleaf
 - 한 줄 요약: **실시간 채팅과 알림이 있는 중고거래 커뮤니티 웹 서비스**
 
-> 👉 레포 링크: [프로젝트 바로가기]((https://github.com/Team-Nuguri/dashimarket))
+> 👉 레포 링크: [프로젝트 바로가기](https://github.com/Team-Nuguri/dashimarket)
 
 ---
 
