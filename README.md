@@ -19,7 +19,7 @@
 <div>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VisualStudioCode-00B4F0?style=flat&logo=VisualStudioCode&logoColor=white"/>
 </div>
 
 #### 👩‍💻 Language
