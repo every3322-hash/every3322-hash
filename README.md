@@ -17,6 +17,8 @@
 
 #### ⚙️ Tools
 <div>
+  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
