@@ -62,7 +62,7 @@
 
 > 👉 레포 링크: [다시마켓 프로젝트 바로가기](https://github.com/Team-Nuguri/dashimarket)
 
-#### 🚨 부기무비 (도서 & 영화 플랫폼)
+#### 🎬📖 부기무비 (도서 & 영화 플랫폼)
 - 역할: **영화CRUD, 회원가입/로그인 기능 개발**
 - 기술: Spring Boot, JPA, Oracle, Thymeleaf, css, javascript, Elasticsearch
 - 한 줄 요약: **도서와 영화를 하나의 플랫폼으로 통합한 웹 서비스**
