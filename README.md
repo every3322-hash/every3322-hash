@@ -1,8 +1,6 @@
 <!-- 헤더 인사 -->
 <h1 align="center">👋안녕하세요👋</h1>
-<h3 align="center">﻿빠르게 변화하는 기술 환경 속에서 끊임없이 배우고 성장하며, 
-실질적인 성과로 회사에 기여하는 웹 개발자가 되겠습니다. <img width="851" height="68" alt="image" src="https://github.com/user-attachments/assets/db07073c-a0c6-440a-88aa-970f68f7b11d" />
-</h3>
+<h3 align="center">﻿빠르게 변화하는 기술 환경 속에서 끊임없이 배우고 성장하는 웹개발자입니다.</h3>
 
 ---
 
