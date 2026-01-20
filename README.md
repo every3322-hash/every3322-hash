@@ -7,7 +7,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 전공: (예: 소프트웨어학과 전공 / 빅데이터분석 부전공)
-- 🌱 최근 공부 중: **Spring Boot, JPA, 데이터 분석(Python, pandas)**  
+- 🌱 최근 공부 중: **Spring Boot, JPA, React**  
 - 💡 관심 분야: **JAVA 웹 서비스 개발**
 - 📫 연락: **romeo309@naver.com**
 
@@ -57,10 +57,17 @@
 
 #### 🛒 다시마켓 (중고거래 & 자체 굿즈 & 커뮤니티 플랫폼)
 - 역할: **관리자 페이지, 채팅, 알림, 헤더 검색 기능 개발**
-- 기술: Spring Boot, JPA, Oracle, WebSocket, Thymeleaf
+- 기술: Spring Boot, MyBatis, Oracle, WebSocket, Thymeleaf
 - 한 줄 요약: **실시간 채팅과 알림이 있는 중고거래 커뮤니티 웹 서비스**
 
 > 👉 레포 링크: [다시마켓 프로젝트 바로가기](https://github.com/Team-Nuguri/dashimarket)
+
+#### 🚨 부기무비 (도서 & 영화 플랫폼)
+- 역할: **영화CRUD, 회원가입/로그인 기능 개발**
+- 기술: Spring Boot, JPA, Oracle, Thymeleaf, css, javascript, Elasticsearch
+- 한 줄 요약: **도서와 영화를 하나의 플랫폼으로 통합한 웹 서비스**
+
+> 👉 레포 링크: [부기무비 프로젝트 바로가기]()
 
 #### 🚨 안심이음 (실시간 안전 플랫폼)
 - 역할: **Frontend & API 연동**
