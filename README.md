@@ -1,6 +1,12 @@
 <!-- 헤더 인사 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=transparent&text=👋%20안녕하세요%20👋&fontSize=50" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=👋%20안녕하세요%20👋&fontSize=50&fontColor=FFFFFF" />
+    <img
+      src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&text=👋%20안녕하세요%20👋&fontSize=50&fontColor=000000"
+      alt="👋 안녕하세요 👋" />
+  </picture>
 </p>
 <h3 align="center">﻿빠르게 변화하는 기술 환경 속에서 끊임없이 배우고 성장하는 웹개발자입니다.</h3>
 
