@@ -1,5 +1,7 @@
 <!-- 헤더 인사 -->
-![header](https://capsule-render.vercel.app/api?type=rect&color=w&align=center&text=👋%20안녕하세요%20👋&fontSize=50)
+<p align="center">
+  ![header](https://capsule-render.vercel.app/api?type=rect&color=transparent&text=👋%20안녕하세요%20👋&fontSize=50)
+</p>
 <h3 align="center">﻿빠르게 변화하는 기술 환경 속에서 끊임없이 배우고 성장하는 웹개발자입니다.</h3>
 
 ---
