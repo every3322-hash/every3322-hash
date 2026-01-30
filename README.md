@@ -80,11 +80,10 @@
 - 기술: Spring Boot, JPA, Oracle, Thymeleaf, css, javascript, Elasticsearch
 - 한 줄 요약: **도서와 영화를 하나의 플랫폼으로 통합한 웹 서비스**
 - 문제해결
-  → 문제 : 로그인 후 세션 ID가 유지되어 Session Fixation 위험<br>
-  → 원인: 인증 성공 후에도 세션 ID가 유지됨<br>
-  → 해결: request.changeSessionId() 적용 + Security 표준 흐름으로 정비<br>
-  → 결과: 세션 고정 공격 가능성 감소, 인증/세션 관리 일관성 확보
-
+  - 문제: 로그인 후 세션 ID가 유지되어 Session Fixation 위험
+  - 원인: 인증 성공 후에도 세션 ID가 유지됨
+  - 해결: request.changeSessionId() 적용 + Security 표준 흐름으로 정비
+  - 결과: 세션 고정 공격 가능성 감소, 인증/세션 관리 일관성 확보
 
 > 👉 레포 링크: [부기무비 프로젝트 바로가기](https://github.com/Team-Oceans/BOOGiMOVIE_ver2.0)
 
@@ -93,7 +92,10 @@
 - 기술: Firebase, android studio
 - 한 줄 요약: **실시간 지역기반 안전 알림 모바일 서비스**
 - 문제해결
-: Android 13+에서 알림이 “안 오는 것처럼” 보임 → 런타임 알림 권한/채널 설정 이슈 → POST_NOTIFICATIONS 권한 요청 + 상태별 처리 분리 + 채널 중요도 재정비 → OS 버전 변화에도 일관된 알림 노출
+  - 문제: Android 13+에서 알림이 “안 오는 것처럼” 보임
+  - 원인: 런타임 알림 권한/채널 설정 이슈
+  - 해결: POST_NOTIFICATIONS 권한 요청 + 상태별 처리 분리 + 채널 중요도 재정비
+  - 결과: OS 버전 변화에도 일관된 알림 노출
 
 > 👉 레포 링크: [안심이음 프로젝트 바로가기](https://github.com/every3322-hash/ansim-ieum)
 
@@ -101,8 +103,11 @@
 - 역할: **데이터 분석 및 시각화**
 - 기술: Python, seabon, matplotlib
 - 한 줄 요약: **미국 소비자들의 쇼핑 행동 패턴 중심으로 저매출 지역 데이터 분석 후 마케팅 전략 제안**
-- 문제해결
-: 히트맵으로는 색상·리뷰(범주형) 인사이트가 약함 → 범주형 분포 비교에 부적합 → 색상 재그룹화 + 카테고리 4→7 세분화 후 바이올린플롯 분석 → 저매출 지역 타깃 마케팅 인사이트 도출
+- - 문제해결
+  - 문제: 히트맵으로는 색상·리뷰(범주형) 인사이트가 약함
+  - 원인: 범주형 분포 비교에 부적합
+  - 해결: 색상 재그룹화 + 카테고리 4→7 세분화 후 바이올린플롯 분석
+  - 결과: 저매출 지역 타깃 마케팅 인사이트 도출
 
 > 👉 레포 링크: [온라인 쇼핑 마케팅 전략 프로젝트 바로가기](https://github.com/jr-2-team/shopping-data-analysis)
 ---
