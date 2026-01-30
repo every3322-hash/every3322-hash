@@ -75,6 +75,7 @@
 
 > 👉 레포 링크: [다시마켓 프로젝트 바로가기](https://github.com/Team-Nuguri/dashimarket)
 
+
 #### 🎬📖 부기무비 (도서 & 영화 플랫폼)
 - 역할: **Frontend(영화 페이지, 회원가입 UI/UX), Backend(영화CRUD, 회원가입/로그인)**
 - 기술: Spring Boot, JPA, Oracle, Thymeleaf, css, javascript, Elasticsearch
@@ -87,6 +88,7 @@
 
 > 👉 레포 링크: [부기무비 프로젝트 바로가기](https://github.com/Team-Oceans/BOOGiMOVIE_ver2.0)
 
+
 #### 🚨 안심이음 (실시간 안전 플랫폼)
 - 역할: **Frontend(전체 UI/UX), Backend(국민행동요령 API 연동)**
 - 기술: Firebase, android studio
@@ -98,6 +100,7 @@
   - 결과: OS 버전 변화에도 일관된 알림 노출
 
 > 👉 레포 링크: [안심이음 프로젝트 바로가기](https://github.com/every3322-hash/ansim-ieum)
+
 
 #### 🛍️ 온라인 쇼핑 저매출 지역 마케팅 전략(데이터 분석)
 - 역할: **데이터 분석 및 시각화**
