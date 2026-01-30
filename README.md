@@ -68,7 +68,10 @@
 - 기술: Spring Boot, MyBatis, Oracle, WebSocket, Thymeleaf
 - 한 줄 요약: **실시간 채팅과 알림이 있는 중고거래 커뮤니티 웹 서비스**
 - 문제해결
-: 채팅방 나가기 후 UI가 남는 문제 → 전역 상태/화면 상태가 유지됨 → 상태 초기화 + 채팅 목록 비동기 재조회 + 단방향 렌더링으로 정리 → UI/서버 데이터 정합성 확보
+  - 문제: 채팅방 나가기 후 UI가 남는 문제
+  - 원인: 전역 상태/화면 상태가 유지됨
+  - 해결: 채팅 목록 비동기 재조회 + 단방향 렌더링으로 정리
+  - 결과: UI/서버 데이터 정합성 확보
 
 > 👉 레포 링크: [다시마켓 프로젝트 바로가기](https://github.com/Team-Nuguri/dashimarket)
 
@@ -77,7 +80,11 @@
 - 기술: Spring Boot, JPA, Oracle, Thymeleaf, css, javascript, Elasticsearch
 - 한 줄 요약: **도서와 영화를 하나의 플랫폼으로 통합한 웹 서비스**
 - 문제해결
-: 로그인 후 세션 ID가 유지되어 Session Fixation 위험 → 인증 성공 시 세션 재발급이 필요 → 로그인 성공 시 request.changeSessionId() 적용 + Security 표준 흐름으로 정비 → 세션 고정 공격 가능성 감소, 인증/세션 관리 일관성 확보
+  → 문제 : 로그인 후 세션 ID가 유지되어 Session Fixation 위험<br>
+  → 원인: 인증 성공 후에도 세션 ID가 유지됨<br>
+  → 해결: request.changeSessionId() 적용 + Security 표준 흐름으로 정비<br>
+  → 결과: 세션 고정 공격 가능성 감소, 인증/세션 관리 일관성 확보
+
 
 > 👉 레포 링크: [부기무비 프로젝트 바로가기](https://github.com/Team-Oceans/BOOGiMOVIE_ver2.0)
 
