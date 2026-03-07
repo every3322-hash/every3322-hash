@@ -18,7 +18,7 @@
 - 🌱 최근 공부 중: **Spring Security, React**  
 - 💡 관심 분야: **JAVA 웹 서비스 개발**
 - 📫 연락: **romeo309@naver.com**
-- 👩‍💻 노션: **[노션 바로가기](https://www.notion.so/3056e74a853381709f24cfe7cc9bf1be)**
+- 👩‍💻 포트폴리오: **[노션 바로가기](https://www.notion.so/3056e74a853381709f24cfe7cc9bf1be)**
 
 ---
 
