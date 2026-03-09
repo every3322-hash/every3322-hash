@@ -16,7 +16,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 전공: **소프트웨어학과** / 부전공 : 빅데이터분석 융합학과
-- 🌱 최근 공부 중: **Spring Security, React**  
+- 🌱 최근 공부 중: **React, Node.js, Blender(3D)**  
 - 💡 관심 분야: **JAVA 웹 서비스 개발**
 - 📫 연락: **romeo309@naver.com**
 - 👩‍💻 포트폴리오: **[노션 바로가기](https://www.notion.so/3056e74a853381709f24cfe7cc9bf1be)**
@@ -56,6 +56,12 @@
 </div>
 
 ### 🗄 Database & Data
+<div>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</div>
+
+### 🖌️ Design
 <div>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
