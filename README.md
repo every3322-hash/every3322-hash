@@ -103,7 +103,7 @@
   - 해결: request.changeSessionId() 적용 + Security 표준 흐름으로 정비
   - 결과: 세션 고정 공격 가능성 감소, 인증/세션 관리 일관성 확보
 
-> 👉 레포 링크: [부기무비 프로젝트 바로가기](https://github.com/Team-Oceans/BOOGiMOVIE_ver2.0)
+> 👉 레포 링크: [부기무비 프로젝트 바로가기](https://github.com/every3322-hash/BOOGiMOVIE_ver2.0)
 ---
 
 ### 🚨 안심이음 (실시간 안전 플랫폼)
