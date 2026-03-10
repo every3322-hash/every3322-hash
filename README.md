@@ -90,7 +90,7 @@
   - 해결: 채팅 목록 비동기 재조회 + 단방향 렌더링으로 정리
   - 결과: UI/서버 데이터 정합성 확보
 
-> 👉 레포 링크: [다시마켓 프로젝트 바로가기](https://github.com/Team-Nuguri/dashimarket)
+> 👉 레포 링크: [다시마켓 프로젝트 바로가기](https://github.com/every3322-hash/Dashimarket)
 ---
 
 ### 🎬📖 부기무비 (도서 & 영화 플랫폼)
